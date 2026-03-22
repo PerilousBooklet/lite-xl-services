@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "id": "services",
+      "mod_version": "3",
+      "version": "0.0.1",
+      "description": "A plugin that integrates services like Tomcat into Lite XL.",
+      "path": ".",
+      "dependencies": { "www": {} }
+    }
+  ]
+}

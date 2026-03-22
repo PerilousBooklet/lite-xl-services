@@ -1,0 +1,5 @@
+- TODO: how to keep the service in the background
+- TODO: allow choosing sub-folder from within which to search for refactoring (useful when the codebase is huge)
+- TODO: a target `build+service` (es. gradle + tomcat) must pass on the drawer focus, like in intellij
+- TODO: same for the debugger actually
+- TODO: add `go-to-file` to `build` drawer
